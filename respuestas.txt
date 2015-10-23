@@ -1,0 +1,2 @@
+¿Qué es rvm (Ruby Version Manager )?
+Nos permite tener varios interpretes de Ruby y poder usar cualquiera de ellos.
