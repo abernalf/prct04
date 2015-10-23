@@ -1,2 +1,8 @@
 ¿Qué es rvm (Ruby Version Manager )?
 Nos permite tener varios interpretes de Ruby y poder usar cualquiera de ellos.
+
+¿Cu´ales son las diferencias entre la ejecuci´on del programa "Hola Mundo" con el int´erprete
+de Ruby (ruby helloWorld.rb) y el int´erprete interactivo del ejercicio anterior? Escriba la
+respuesta en fichero creado en el ejercicio 11.
+
+La primera forma nos apunta a "nill" y la segunda sin embargo nos imprime "Hola mundo"
